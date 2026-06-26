@@ -1,40 +1,93 @@
-👋 Hi there, I am RAHUL SAINI
+# 👋 Hi there, I'm Rahul Saini
 
-🚀 Backend Developer | 🔐 Automation Engineer | 🌐 Full-Stack Enthusiast
+## Backend Developer | AWS Serverless | Node.js | TypeScript
 
-Passionate about building scalable backend systems, automation workflows, and high-impact digital communication platforms (SMS, Email, Voice, WhatsApp).
+Backend Developer with experience designing and building scalable, event-driven backend systems using **Node.js, TypeScript, AWS Lambda, API Gateway, Amazon SQS, Amazon S3, MongoDB, and DynamoDB**.
 
-🔭 Currently Working On
-* Scalable backend architectures for marketing automation platforms
-* Custom dashboards for SMS/Email/Voice/WhatsApp campaign management
-* API automation and QA workflows
+I enjoy solving backend scalability problems, building distributed serverless architectures, designing reliable APIs, and optimizing high-throughput systems.
 
-🌱 Currently Learning
-* AWS (Cognito, Lambda, EC2, SES, SNS)
-* Next.js + TypeScript
-* Advanced System Design & Microservices
+---
 
-👯 Looking to Collaborate On
-* Full-stack SaaS products
-* API automation frameworks
-* Node.js + React projects
-* Real-time dashboards & cloud-driven apps
+## 🚀 What I'm Working On
 
-🤔 Looking For Help With
-* Cloud optimization & deployment strategy
-* CI/CD best practices
-* Authentication & authorization workflows (Cognito, JWT, RBAC)
+- Building scalable serverless architectures on AWS
+- Event-driven systems with Lambda, SQS & API Gateway
+- High-volume campaign processing platforms
+- Backend system design & performance optimization
+- Open-source contributions to the Node.js ecosystem
 
-💬 Ask Me About
-* Backend development (Node.js, Express, TS)
-* API automation (Cypress, Postman, Playwright)
-* Web app automation testing
-* Scalable architecture design
-* Campaign automation systems
+---
 
-📫 How to Reach Me
-📩 Email:[itsrahulsaini21@gmail.com]
+## 💼 Professional Highlights
 
-⚡ Fun Fact
-I debug faster than I cook Maggi 😄
-(Yes… that’s my superpower.)
+- 🚀 Built a production serverless pipeline processing **100,000+ contacts**
+- ⚡ Designed distributed AWS Lambda workflows for asynchronous processing
+- 📩 Developed a scalable SMS Delivery Report (DLR) processing system supporting **Sinch, Vonage & TallBob**
+- ☁️ Experienced with AWS Lambda, API Gateway, SQS, S3, Cognito & CloudWatch
+- 🔓 Contributor to the **Limitly** open-source npm package
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+JavaScript • TypeScript • HTML • CSS
+
+### Backend
+Node.js • Express.js • Next.js APIs • REST APIs
+
+### AWS
+Lambda • API Gateway • Amazon SQS • Amazon S3 • Cognito • IAM • CloudWatch • Route53
+
+### Databases
+MongoDB • MongoDB Atlas • DynamoDB
+
+### DevOps & Tools
+Git • GitHub • Bitbucket • Docker • Cypress • Postman
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced System Design
+- Distributed Systems
+- AWS Event-Driven Architectures
+- High-Performance Backend Engineering
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Backend & Serverless Projects
+- Node.js Open Source
+- SaaS Products
+- Cloud-Native Applications
+
+---
+
+## 💬 Ask Me About
+
+- Node.js & TypeScript
+- AWS Lambda & Serverless
+- API Gateway
+- Amazon SQS & S3
+- Backend Architecture
+- Distributed Systems
+- REST APIs
+- Authentication (AWS Cognito & JWT)
+- Performance Optimization
+
+---
+
+## 📫 Connect With Me
+
+📧 **itsrahulsaini21@gmail.com**
+
+💼 LinkedIn  **https://www.linkedin.com/in/rahul-saini-5253b2255/**
+🌐 Portfolio **https://resume-of-rahul.vercel.app/**
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning complex backend workflows into simple, scalable architectures.
